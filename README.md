@@ -12,27 +12,7 @@ Arduino
 •	Users can select the appropriate board when writing code, ensuring compatibility.
 •	Arduino IDE includes a vast library of functions and examples that simplify common tasks.
 •	Users can access pre-written code for sensors, actuators, displays, and more, reducing the need to start from scratch.
-Device Manager
- 
-Board and Port configuration
- 
-Arduino Sketch
- 
 
-
-
-
-
-
-
-
-Circuit board Simulation
- 
-Layout
- 
- 
-
-
-Submitted By –
+By –
 Gopala Krishna Abba
 
